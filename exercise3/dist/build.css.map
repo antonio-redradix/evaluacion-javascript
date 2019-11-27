@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles/main.scss"],"names":[],"mappings":"AAAA;AACA,yBAAyB;;AAEzB;AACA,aAAa","file":"build.css","sourcesContent":["div--highlighted {\n  background-color: blue; }\n\ndiv p {\n  color: red; }\n"],"sourceRoot":""}

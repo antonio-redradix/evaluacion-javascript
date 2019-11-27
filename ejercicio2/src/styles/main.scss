@@ -1,0 +1,11 @@
+@import 'reset';
+
+.ballonContainer{
+	margin: 10%;
+	&__ballon{
+		font-size: 100px;
+		color: red;
+	}
+}
+
+

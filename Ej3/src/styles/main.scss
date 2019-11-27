@@ -1,0 +1,42 @@
+@import 'reset';
+
+body {
+    margin: 0 auto;
+    background-color: skyblue;
+    font-family: Arial;
+    font-weight:normal;
+}
+
+.container {
+    &__default {
+        width: 100vw;
+        display: flex;
+        align-content: center;
+    }
+}
+
+#balloonCreator {
+    display: none;
+    margin: 30px auto;
+    padding: 10px;
+    border: none;
+    background-color: white;
+    color: rgb(214, 90, 90);
+    border-radius: 3px;
+    box-shadow: 4px 4px 0px rgb(86, 151, 177);
+}
+
+#balloonContainer {
+    width: 100vw;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.balloon {
+    font-size: 60px;
+    transition: 0.5s;
+    cursor: pointer;
+}

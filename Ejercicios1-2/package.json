@@ -1,0 +1,22 @@
+{
+  "name": "jest-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonio-redradix/jest-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonio-redradix/jest-exercises/issues"
+  },
+  "homepage": "https://github.com/antonio-redradix/jest-exercises#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}

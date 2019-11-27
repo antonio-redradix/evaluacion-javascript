@@ -39,3 +39,5 @@ let row = matParse.getRow(2)
 // console.log(row)
 let total = matParse.getTotal()
 console.log(total)
+
+module.exports = {MatrixParse}

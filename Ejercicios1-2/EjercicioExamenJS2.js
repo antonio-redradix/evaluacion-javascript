@@ -15,3 +15,5 @@ function applyAll(array, func){
 }
 
 console.log(applyAll(array, func))
+
+module.exports = {func, applyAll}

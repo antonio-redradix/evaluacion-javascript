@@ -33,5 +33,5 @@ class MatrixParser{
         }return i
     }
  
-    }
-
+}
+module.exports = {MatrixParser}

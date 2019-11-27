@@ -1,0 +1,11 @@
+{
+  "name": "entrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercise1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Cristian Orgaz Portero",
+  "license": "ISC"
+}

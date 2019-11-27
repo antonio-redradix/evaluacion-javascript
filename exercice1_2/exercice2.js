@@ -10,4 +10,5 @@ function applyAll(array, func){
     }
     return narray
 }
-console.log(applyAll(array,func))
+
+module.exports = {applyAll}

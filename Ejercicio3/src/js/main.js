@@ -1,5 +1,4 @@
 
-
 let div = document.createElement('div')
 document.body.appendChild(div);
 div.style.width = "300px";
@@ -13,9 +12,10 @@ div.style.fontSize = level + "px"
 let texto = document.createTextNode('🎈');
 parrafo.appendChild(texto);
 
-
 div.addEventListener("click", myFunction);
 function myFunction(){
+    level = 120
+    div.style.fontSize = level + "px"
     div.innerHTML = '💥';
 }
 

@@ -20,7 +20,6 @@ class MatrixParser {
         return this.matriz[num]
     }
     getTotal(){
-
         let array = this.matriz
         let num = 0
         for (let a of array ){
@@ -31,22 +30,9 @@ class MatrixParser {
          console.log(num)
     }
 }
-
 let prueba =  this.getMatrix
-
 let matrixparser = new MatrixParser
-
 matrixparser.getMatrix("1 1 1|0 1 0|0 0 0")
-let row = matrixparser.getRow(1)
+let row = matrixparser.getRow(2)
 console.log(row)
 matrixparser.getTotal()
-
-
-
-
-
-
-// let prueba = new MatrixParser()
-
-// prueba.getMatrix()
-// console.log(this.matriz)

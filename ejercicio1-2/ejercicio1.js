@@ -32,7 +32,6 @@ class MatrixParser {
         
     
 }
-
 let matrixparser = new MatrixParser ("1 1 1|0 1 0|0 0 0")
 let strings = matrixparser.getMatrix()
 console.log(strings)
@@ -40,3 +39,7 @@ let row = matrixparser.getRow(1)
 console.log(row)
 let totals = matrixparser.getTotal()
 console.log(totals)
+
+
+
+module.exports = {MatrixParser}

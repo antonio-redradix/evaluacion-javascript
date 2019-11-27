@@ -13,3 +13,5 @@ function applyAll (arr, fn) {
     return array
 }   
 console.log(applyAll(arr, fn))
+
+module.exports = {fn, applyAll}

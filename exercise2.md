@@ -3,7 +3,7 @@
 
 La evaluación de Javascript consistirá en 3 ejercicios que medirán la habilidad del alumno a la hora de resolver problemas de diferente ámbito.
 
-Los problemas 1 y 2 se realizarán en ficheros separados dentro de un mismo proyecto y se validará el correcto funcionamiento mediante tests en **Jest**. El problema 3 se evaluará observando el comportamiento de la página creada. El tercer problema debe ser compilado con **Webpack** y el uso de sintaxis ES6 será valorado positivamente.
+Los problemas 1 y 2 se realizarán en ficheros separados dentro de un mismo proyecto y se validará el correcto funcionamiento mediante tests en **Jest**. El problema 3 se evaluará observando el comportamiento de la página creada. El tercer problema debe ser compilado con **Webpack** y el uso de sintaxis ES6 será valorado positivamente en todos los ejercicios.
 
 Los alumnos deben realizar el ejercicio clonando este repositorio y partiendo de la plantilla incluida. Cada alumno publicará su solución en una rama que nombrará con el siguiente formato: **entrega_nombre-apellido1-apellido2**
 

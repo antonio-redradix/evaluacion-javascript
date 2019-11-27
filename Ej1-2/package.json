@@ -1,0 +1,17 @@
+{
+  "name": "ej12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ejercicio1.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node node_modules/jest/bin/jest.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
